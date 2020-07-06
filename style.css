@@ -1,6 +1,9 @@
 .container{
     margin-bottom: 100px;
 }
+#container-2{
+    margin-bottom: 10px;
+}
 .img-size{
     width: 150px;
     height: 70px;
@@ -37,4 +40,29 @@
 }
 .header-bottom{
     margin-bottom: 30px;
+}
+.text-center{
+    text-align: center;
+}
+.img-width2 img{
+    width: 550px;
+    height: 450px;
+}
+.text-bottom{
+    padding: 20px;
+}
+.bg-img-border{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;  
+    margin-top: 50px;
+    padding-top: 30px;
+    
+}
+.border1{
+    margin-bottom: 50px;
+}
+.border2{
+    margin-right: 30px;
 }
