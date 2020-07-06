@@ -16,3 +16,18 @@
 .div-text-items{
     margin-left: 15px;
 }
+.header-text-color{
+    color: #FF9C35
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 15px;
+}
+.div-space{
+    margin-left: 40px;
+}
+.div-space2{
+    margin-right: 50px;
+}
